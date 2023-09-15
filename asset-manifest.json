@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PF-React-AlvaroFrey/static/css/main.e3a5daaf.css",
+    "main.js": "/PF-React-AlvaroFrey/static/js/main.a2f64c93.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PF-React-AlvaroFrey/static/js/787.28cb0dcd.chunk.js",
+    "static/media/cargandoOrden.gif": "/PF-React-AlvaroFrey/static/media/cargandoOrden.ad542e73e2e605af5bb8.gif",
+    "static/media/ordenDeleted.png": "/PF-React-AlvaroFrey/static/media/ordenDeleted.3574888bb96d14265a8e.png",
+    "index.html": "/PF-React-AlvaroFrey/index.html",
+    "static/media/cart.svg": "/PF-React-AlvaroFrey/static/media/cart.30255b02b4d20766b4123ccb0aa6df55.svg",
+    "main.e3a5daaf.css.map": "/PF-React-AlvaroFrey/static/css/main.e3a5daaf.css.map",
+    "main.a2f64c93.js.map": "/PF-React-AlvaroFrey/static/js/main.a2f64c93.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PF-React-AlvaroFrey/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a5daaf.css",
+    "static/js/main.a2f64c93.js"
+  ]
+}
